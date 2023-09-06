@@ -8,13 +8,13 @@
 
 ## Event Handlers
 
-- *Common Events*:
+*Common Events*:
 1. Click Events (e.g., clicking a button)
 2. Key Press Events (e.g., typing on a keyboard)
 3. Mouse Over Events (e.g., hovering over an element)
 4. Form Submission Events (e.g., submitting a form)
 
-- *How to handle events*:
+*How to handle events*:
   - Using `onclick` in HTML.
   - Using `addEventListener` in JS (preferred way).
 
