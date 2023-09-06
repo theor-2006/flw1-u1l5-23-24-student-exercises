@@ -15,8 +15,8 @@
 4. Form Submission Events (e.g., submitting a form)
 
 *How to handle events*:
-  - Using `onclick` in HTML.
-  - Using `addEventListener` in JS (preferred way).
+- Using `onclick` in HTML.
+- Using `addEventListener` in JS (preferred way).
 
     ```javascript
     <button onclick="printHello()">Click Me!</button>
@@ -32,13 +32,13 @@
 
 ## Debugging & Clean Code
 
-- *Debugging Strategies*:
-  1. Use the console.
-  2. Use comments.
-  3. Go through code line by line.
-  4. Test code in chunks.
+*Debugging Strategies*:
+1. Use the console.
+2. Use comments.
+3. Go through code line by line.
+4. Test code in chunks.
 
-- *Clean Code Practices*:
-  - Code should be self-explanatory.
-  - Store values in descriptive variable names.
-  - Maintain strong naming conventions.
+*Clean Code Practices*:
+- Code should be self-explanatory.
+- Store values in descriptive variable names.
+- Maintain strong naming conventions.
