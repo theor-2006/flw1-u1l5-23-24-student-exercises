@@ -10,14 +10,14 @@ function getCoordinates(event) {
 }
 
 // 1. Add the event listener for consoleButton.
-//  - Select the correct variable.
+//  - Select the variable.
 //  - Add the .addEventLister method.
 //  - The event type is "click".
 //  - The function should log whatever message you want to the console.
 
 
 // 2. Add the event listener for alertButton.
-//  - Select the correct variable.
+//  - Select the variable.
 //  - Add the .addEventLister method.
 //  - The event type is "click".
 //  - The function should alert whatever message you want.
@@ -27,7 +27,7 @@ function getCoordinates(event) {
 
 
 // 3. Add the event listener for coordinateButton.
-//  - Select the correct variable.
+//  - Select the variable.
 //  - Add the .addEventLister method.
 //  - The event type is "click".
 //  - There's already a function defined above that we can use!
